@@ -12,6 +12,7 @@ const EmployeeForm = ({
   handleSave,
   handleUpdate,
   handleClear,
+  
 }) => {
   return (
     <div className="employee-form-container">
